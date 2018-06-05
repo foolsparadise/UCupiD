@@ -2,8 +2,8 @@
 C-Language command and linked-list demo  
 此工程为有关C语言command及链表Demo，供学习使用，其中涉及command，链表，链表遍历，链表出栈入栈等等基本及其它细节  
 ## requirments 需求  
-requirments.pdf and following example  
-详细需求请看requirements.pdf文档，以下为需求举例  
+requirments.pdf , and following example as usage  
+详细需求请看requirements.pdf文档，以下举例为需求完成后的使用方法  
 ```  
 $ cat database.txt  
 111223333,Rob,M,F,47,5,Dancing,Painting,63,165  
@@ -34,4 +34,7 @@ Error: cannot open wrong_file.txt
 $ ./UCupiD  
 Usage: ./UCupiD db_file SID  
 ```  
+## Compile 编译  
+gcc UCupiD.c -o UCupiD  
+(option) chmod +x ./UCupiD  
 ## MIT  
