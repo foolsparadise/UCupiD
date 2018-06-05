@@ -2,7 +2,7 @@
 //  UCupiD.h
 //  
 //
-//  Created by h123 on 2018/6/4.
+//  Created by github.com/foolsparadise on 2018/6/1.
 //
 
 #ifndef UCupiD_h
