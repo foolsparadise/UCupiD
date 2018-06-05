@@ -35,6 +35,8 @@ $ ./UCupiD
 Usage: ./UCupiD db_file SID  
 ```  
 ## Compile 编译  
+```  
 gcc UCupiD.c -o UCupiD  
 (option) chmod +x ./UCupiD  
+```  
 ## MIT  
