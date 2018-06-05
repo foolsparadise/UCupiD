@@ -4,7 +4,7 @@ C-Language command and linked-list demo
 ## requirments 需求  
 requirments.pdf and following example  
 详细需求请看requirements.pdf文档，以下为需求举例  
-``  
+```  
 $ cat database.txt  
 111223333,Rob,M,F,47,5,Dancing,Painting,63,165  
 123456789,Bob,M,F,77,2,Baseball,Cooking,72,275  
@@ -33,5 +33,5 @@ $ ./UCupiD wrong_file.txt 000000000
 Error: cannot open wrong_file.txt  
 $ ./UCupiD  
 Usage: ./UCupiD db_file SID  
-``  
+```  
 ## MIT  
