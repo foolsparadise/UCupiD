@@ -1,7 +1,9 @@
 ## UCupidD.c  
 C-Language command and linked-list demo  
 此工程为有关C语言command及链表Demo，供学习使用，其中涉及command，链表，链表遍历，链表出栈入栈等等基本及其它细节  
-## requirments.pdf and following example 详细需求请看requirements.pdf文档，以下为需求举例  
+## requirments 需求  
+requirments.pdf and following example  
+详细需求请看requirements.pdf文档，以下为需求举例  
 ``  
 $ cat database.txt  
 111223333,Rob,M,F,47,5,Dancing,Painting,63,165  
