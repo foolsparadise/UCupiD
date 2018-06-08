@@ -1,6 +1,5 @@
 ## UCupidD.c  
-C-Language command and linked-list demo  
-此工程为有关C语言command及链表Demo，供学习使用，其中涉及command，链表，链表遍历，链表出栈入栈等等基本及其它细节  
+此工程涉及知识点：为有关C语言命令执行command，链表使用，链表遍历，链表出栈入栈等等基本及其它细节，供学习使用  
 ## requirments 需求  
 requirments.pdf , and following example as usage  
 详细需求请看requirements.pdf文档，以下举例为需求完成后的使用方法  
