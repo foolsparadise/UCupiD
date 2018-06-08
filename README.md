@@ -39,5 +39,5 @@ gcc UCupiD.c -o UCupiD
 (option) chmod +x ./UCupiD  
 ```  
 ## Run 运行  
-看上面的需求举例所示Demo  
+看上面的需求举例所示Demo及requirments.pdf需求文档  
 ## MIT  
