@@ -283,8 +283,17 @@ int main(int argc, char ** argv) {
     /*
     printf("__LINE__(%d): UCupiD %d\n", __LINE__, argc);
     int i;
-    for (i=0; i < argc; i++)
+    for (i=0; i < argc; i++) {
         printf("__LINE__(%d): Argument %d is %s.\n", __LINE__, i, argv[i]);
+	if(!strncmp("-h",argv[i],2)) {
+	    //执行 UCupiD -h 打印帮助什么什么的
+	}
+	else if(!strncmp("-print",argv[i],6)) {
+	    //执行 UCupiD -print xxx 就做点什么  
+	    //do somethins with argv[i+1]
+	    i++;  
+	}
+    }
     */
    
     if(argc!=3) {
